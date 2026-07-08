@@ -1,0 +1,9 @@
+fecha,producto,cantidad,precio_unitario,vendedor
+2026-06-01,Teclado mecánico,3,145000,Laura Ríos
+2026-06-01,Mouse inalámbrico,5,68000,Laura Ríos
+2026-06-02,Monitor 24",2,610000,Carlos Peña
+2026-06-02,Teclado mecánico,,145000,Carlos Peña
+2026-06-03,Audífonos USB,4,89000,Laura Ríos
+2026-06-04,Monitor 24",1,610000,Carlos Peña
+2026-06-05,Mouse inalámbrico,7,68000,Laura Ríos
+2026-06-05,Webcam HD,2,120000,Carlos Peña
